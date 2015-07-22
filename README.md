@@ -8,7 +8,7 @@ Cheers!
 
 ### And this project name means...?
 
-Nothing special about it. I set this up while I was with some free time at my job...
+Nothing special about it. I set this up while I had some free time at my job...
 
 ---
 [1]:http://square.github.io/spoon/
